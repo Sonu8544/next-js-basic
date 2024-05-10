@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.my-text{
+  font-size: 40px;
+  color: black;
+  background-color: white;
+}
